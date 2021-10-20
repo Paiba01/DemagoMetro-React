@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DemagoMetro-React/static/css/main.614c7a71.chunk.css",
-    "main.js": "/DemagoMetro-React/static/js/main.658bd71c.chunk.js",
-    "main.js.map": "/DemagoMetro-React/static/js/main.658bd71c.chunk.js.map",
+    "main.css": "/DemagoMetro-React/static/css/main.6832df72.chunk.css",
+    "main.js": "/DemagoMetro-React/static/js/main.3b8dd9de.chunk.js",
+    "main.js.map": "/DemagoMetro-React/static/js/main.3b8dd9de.chunk.js.map",
     "runtime-main.js": "/DemagoMetro-React/static/js/runtime-main.c92f6d67.js",
     "runtime-main.js.map": "/DemagoMetro-React/static/js/runtime-main.c92f6d67.js.map",
     "static/js/2.52cfb1e5.chunk.js": "/DemagoMetro-React/static/js/2.52cfb1e5.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.bc904c2b.chunk.js": "/DemagoMetro-React/static/js/3.bc904c2b.chunk.js",
     "static/js/3.bc904c2b.chunk.js.map": "/DemagoMetro-React/static/js/3.bc904c2b.chunk.js.map",
     "index.html": "/DemagoMetro-React/index.html",
-    "static/css/main.614c7a71.chunk.css.map": "/DemagoMetro-React/static/css/main.614c7a71.chunk.css.map",
+    "static/css/main.6832df72.chunk.css.map": "/DemagoMetro-React/static/css/main.6832df72.chunk.css.map",
     "static/js/2.52cfb1e5.chunk.js.LICENSE.txt": "/DemagoMetro-React/static/js/2.52cfb1e5.chunk.js.LICENSE.txt",
     "static/media/logo.bc56b5d9.svg": "/DemagoMetro-React/static/media/logo.bc56b5d9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c92f6d67.js",
     "static/js/2.52cfb1e5.chunk.js",
-    "static/css/main.614c7a71.chunk.css",
-    "static/js/main.658bd71c.chunk.js"
+    "static/css/main.6832df72.chunk.css",
+    "static/js/main.3b8dd9de.chunk.js"
   ]
 }
